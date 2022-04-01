@@ -18,3 +18,19 @@
 .activo {
     background-color: grey !important
 }
+
+.avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.color-izq {
+    background-color: #ffB800;
+}
+
+.perfil {
+    background-image: url("../img/outerspace-75.gif");
+    background-size: cover;
+    background-position: center;
+}
